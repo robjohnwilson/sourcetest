@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>rob.wilson</sys_created_by>
         <sys_created_on>2016-05-20 19:53:19</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f2a6708137eb5a005ae743ba54990e36</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sourcetest_table1</sys_name>

@@ -13,7 +13,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>rob.wilson</sys_created_by>
         <sys_created_on>2016-05-20 19:53:19</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a0c6b08137eb5a005ae743ba54990e5a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_sourcetest_sourcetest_table1_user</sys_name>
