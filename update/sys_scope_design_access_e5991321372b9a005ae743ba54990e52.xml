@@ -5,7 +5,7 @@
         <sys_class_name>sys_scope_design_access</sys_class_name>
         <sys_created_by>rob.wilson</sys_created_by>
         <sys_created_on>2016-05-22 21:01:50</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e5991321372b9a005ae743ba54990e52</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>1a4f57f3373212001ff28c0a54990e0a</sys_name>
@@ -16,6 +16,6 @@
         <sys_update_name>sys_scope_design_access_e5991321372b9a005ae743ba54990e52</sys_update_name>
         <sys_updated_by>rob.wilson</sys_updated_by>
         <sys_updated_on>2016-05-22 21:01:50</sys_updated_on>
-        <target_package display_value="Incident Management" source="com.snc.incident">1a4f57f3373212001ff28c0a54990e0a</target_package>
+        <target_package display_value="Incident" source="com.snc.incident">528eaef14f231200f599fdb28110c711</target_package>
     </sys_scope_design_access>
 </record_update>

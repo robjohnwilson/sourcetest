@@ -52,7 +52,7 @@
         <sys_created_by>rob.wilson</sys_created_by>
         <sys_created_on>2016-05-20 19:53:23</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>b5c7f88137eb5a005ae743ba54990ef1</sys_id>
+        <sys_id>32e4c9424f631200f599fdb28110c7f7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_sourcetest_sourcetest_table1</sys_name>
         <sys_package display_value="sourcetest" source="x_snc_sourcetest">8366f44137eb5a005ae743ba54990e6e</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="sourcetest">8366f44137eb5a005ae743ba54990e6e</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_sourcetest_sourcetest_table1_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2016-05-20 19:57:46</sys_updated_on>
+        <sys_updated_on>2016-05-23 23:29:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

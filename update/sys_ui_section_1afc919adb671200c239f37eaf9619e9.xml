@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="1afc919adb671200c239f37eaf9619e9" sys_domain="global" table="x_snc_sourcetest_sourcetest_table1" version="3" view="">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_sourcetest_sourcetest_table1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chewie</sys_created_by>
+            <sys_created_on>2016-05-24 19:52:41</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1afc919adb671200c239f37eaf9619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_sourcetest_sourcetest_table1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sourcetest" source="x_snc_sourcetest">8366f44137eb5a005ae743ba54990e6e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="sourcetest">8366f44137eb5a005ae743ba54990e6e</sys_scope>
+            <sys_update_name>sys_ui_section_1afc919adb671200c239f37eaf9619e9</sys_update_name>
+            <sys_updated_by>chewie</sys_updated_by>
+            <sys_updated_on>2016-05-24 19:52:41</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
